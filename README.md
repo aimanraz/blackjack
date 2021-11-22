@@ -1,5 +1,5 @@
 # Blackjack
-A simple implimentation of blackjack game made by me.
+A simple implimentation of blackjack game.
 
 ## Code and Resources Used 
 **Python Version:** 3.8++
